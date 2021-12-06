@@ -23,6 +23,16 @@ def user_agent():
 	uagent.append("Mozilla/5.0 (X11; U; Linux x86_64; it-IT; rv:1.9.1.3) Gecko/20090913 Firefox/3.5.3")
 	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 5.2; it-IT; rv:1.9.1.3) Gecko/20090824 Firefox/3.5.3 (.NET CLR 3.5.30729)")
 	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; it-IT; rv:1.9.1.1) Gecko/20090718 Firefox/3.5.1")
+        uagent.append("Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Opera 78")
+	uagent.append("Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20090913 Opera 78")
+	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en; rv:1.9.1.3) Gecko/20090824 Opera 78 (.NET CLR 3.5.30729)")
+	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.3) Gecko/20090824 Opera 78 (.NET CLR 3.5.30729)")
+	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090718 Opera 78")
+	uagent.append("Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:26.0) Gecko/20100101 Opera 36")
+	uagent.append("Mozilla/5.0 (X11; U; Linux x86_64; en-US; rv:1.9.1.3) Gecko/20090913 Opera 36")
+	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en; rv:1.9.1.3) Gecko/20090824 Opera 36 (.NET CLR 3.5.30729)")
+	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 5.2; en-US; rv:1.9.1.3) Gecko/20090824 Opera 36 (.NET CLR 3.5.30729)")
+	uagent.append("Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US; rv:1.9.1.1) Gecko/20090718 Opera 36")
 	return(uagent)
 
 
